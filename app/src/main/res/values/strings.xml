@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">NataliBraids</string>
+    <string name="tv_gathered">Braids with gathered hair</string>
+    <string name="tv_scattered">Braids with scattered hair</string>
+    <string name="bt_morepictures">More pictures</string>
+    <string name="bt_scattered">Braids with scattered hair</string>
+    <string name="bt_half">Braids with half gathered hair and half scattered hair</string>
+    <string name="bt_gathered">Braids with gathered hair</string>
+    <string name="tv_half">Braids with half gathered hair and half scattered hair</string>
+    <string name="tv_details">Gathered Hair Designed By Natali</string>
+    <string name="tv_scattered1">Scattered Hair Designed By Natali </string>
+    <string name="tv_half1">"Braids With Half Gathered Hair And Half Scattered Hair Designed By Natali "</string>
+    <string name="tv_video">Video</string>
+    <string name="tv_rating">10/10</string>
+    <string name="tv_listview">List View</string>
+    <string name="tv_registered">ALREADY REGISTERED?</string>
+    <string name="et_id">ID:</string>
+    <string name="bt_login">SIGN UP</string>
+    <string name="preference_file_key">details</string>
+    <string name="tv_guest">NEW TO NATALI BRAIDS?</string>
+    <string name="bt_continue">CONTINUE AS A GUEST</string>
+    <string name="bt_next">CONTINUE</string>
+    <string name="tv_menu">MENU</string>
+    <string name="bt_more">MORE</string>
+    <string name="bt_appointment">SET AN APPOINTMENT</string>
+    <string name="bt_hairstyles">CHOOSE YOUR HAIRSTYLE</string>
+    <string name="et_firstName">FIRST NAME:</string>
+    <string name="et_lastName">LAST NAME:</string>
+    <string name="et_phoneNumber">PHONE NUMBER:</string>
+    <string name="bt_checkID">CHECK ID</string>
+    <string name="tv_userName">WELCOME</string>
+    <string name="tv_apoint">set an appointment</string>
+    <string name="tv_sign">click here to sign up:</string>
+    <string name="bt_login1">login</string>
+    <string name="tv_time">choose your time:</string>
+    <string name="bt_finish">FINISH</string>
+    <string name="bt_next1">NEXT</string>
+    <string name="tv_ques">DO YOU WANT TO SET AN APPOINTMENT?</string>
+    <string name="bt_yes">YES</string>
+    <string name="bt_no">NO</string>
+    <string-array name="time_of_visits">
+        <item> Sunday </item>
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="hours_of_visits">
+        <item> 15:00 </item>
+        <item> 17:00 </item>
+
+    </string-array>
+
+</resources>

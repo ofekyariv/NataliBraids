@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948163091171",
+    "project_id": "natalibraids",
+    "storage_bucket": "natalibraids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948163091171:android:9abb1b1ce68aa72db5c3d6",
+        "android_client_info": {
+          "package_name": "com.example.natalibraids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948163091171-jbusd4dm6mujnq9c77168csk5dh5gbs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDiuh2YEdo80jNjyObaXtSYriMQWSF7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948163091171-jbusd4dm6mujnq9c77168csk5dh5gbs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="Natali Braids"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:textSize="45sp"
+        android:textColor="@color/black"/>
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginRight="80dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="40dp"
+        android:id="@+id/etEmail"
+        android:hint="EMAIL"
+        android:gravity="center"
+        android:inputType="textEmailAddress" />
+    <EditText
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginRight="80dp"
+        android:layout_marginLeft="80dp"
+        android:gravity="center"
+        android:id="@+id/etPassword"
+        android:hint="PASSWORD"
+        android:inputType="textPassword" />
+    <Button
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/btnlogin"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/round_button"
+        android:text="Login"/>
+    <TextView
+        android:id="@+id/txtRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Create new user"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/txtForgotPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Forgot password?"
+        android:textStyle="bold" />
+</LinearLayout>
